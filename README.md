@@ -1,4 +1,4 @@
-# 🌐 Advanced Network Design & Management - Engineering Portfolio
+# 🌐 Advanced Network Design & Management
 
 This repository contains a comprehensive collection of enterprise-level networking projects developed during my **B.Eng. in Computer Engineering** at Universitat Jaume I (UJI). The focus of these labs is the design, implementation, and troubleshooting of complex network architectures using industry-standard protocols.
 
